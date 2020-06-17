@@ -1,0 +1,19 @@
+[300]  --- Start grading p5 with ./testSmashTwoOne ----- Score=100
+[312]  Grading make all Score=100
+[326]  Grading CFLAGS and -Wall Score=100
+[330]  Grading CFLAGS and -std=c99 Score=100
+[338]  Grading exit command Score=100
+[346]  Grading exit command with a blank line Score=100
+[355]  Grading cd non-existing-directory Score=100
+[362]  Grading cd existing-directory Score=100
+[369]  Grading basic history functionality using /home/MICHAELELLIOTT/cs253/p5/p5_toOnyx/TestData/test2.in Score=100
+[373]  Grading basic history includes exit status for failed cd command Score=100
+[375]  Grading history of history command Score=100
+[379]  Grading long (>10 commands) history using /home/MICHAELELLIOTT/cs253/p5/p5_toOnyx/TestData/test3.in Score=100
+[387]  Grading execution of a simple, external command Score=100
+[398]  Grading the cd command changes smash current working directory Score=100
+[409]  Grading exit status of external command recorded in history Score=100
+[414]  Grading buffer overflow attack Score=100
+[424]  Running valgrind smash Score=100
+[426]  ERROR:  Could not grep Definitely *lost: 0 in valgrind.out Score=95
+[439]  FinalScore=95  Score=95
